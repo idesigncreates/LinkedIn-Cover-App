@@ -1,0 +1,661 @@
+2024-11-09 20:10:50,793:INFO:Starting database setup...
+2024-11-09 20:10:50,808:INFO:Database tables created successfully.
+2024-11-09 20:25:01,946:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:25:01,947:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:25:01,949:INFO: * Restarting with stat
+2024-11-09 20:25:02,693:WARNING: * Debugger is active!
+2024-11-09 20:25:02,696:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:25:37,147:INFO:127.0.0.1 - - [09/Nov/2024 20:25:37] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:25:37,296:INFO:127.0.0.1 - - [09/Nov/2024 20:25:37] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-09 20:25:37,316:INFO:127.0.0.1 - - [09/Nov/2024 20:25:37] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-09 20:25:37,364:INFO:127.0.0.1 - - [09/Nov/2024 20:25:37] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=9hhlp06jTvWckSvYpCZe HTTP/1.1" 200 -
+2024-11-09 20:25:37,371:INFO:127.0.0.1 - - [09/Nov/2024 20:25:37] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-09 20:26:00,770:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:26:00,771:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:26:00,772:INFO: * Restarting with stat
+2024-11-09 20:26:01,501:WARNING: * Debugger is active!
+2024-11-09 20:26:01,503:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:26:36,003:INFO:127.0.0.1 - - [09/Nov/2024 20:26:36] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:26:36,139:INFO:127.0.0.1 - - [09/Nov/2024 20:26:36] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:26:36,143:INFO:127.0.0.1 - - [09/Nov/2024 20:26:36] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:26:36,204:INFO:127.0.0.1 - - [09/Nov/2024 20:26:36] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=QMr0xc5jLcOlvV6nWjj9 HTTP/1.1" 200 -
+2024-11-09 20:28:50,038:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-09 20:28:50,173:INFO: * Restarting with stat
+2024-11-09 20:36:48,841:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:36:48,841:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:36:48,842:INFO: * Restarting with stat
+2024-11-09 20:36:49,528:WARNING: * Debugger is active!
+2024-11-09 20:36:49,530:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:37:03,122:INFO:127.0.0.1 - - [09/Nov/2024 20:37:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:37:03,257:INFO:127.0.0.1 - - [09/Nov/2024 20:37:03] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:37:03,258:INFO:127.0.0.1 - - [09/Nov/2024 20:37:03] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:37:03,311:INFO:127.0.0.1 - - [09/Nov/2024 20:37:03] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=CTmH1bgc28xK0sRVsjVo HTTP/1.1" 200 -
+2024-11-09 20:37:41,346:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-09 20:37:41,548:INFO: * Restarting with stat
+2024-11-09 20:37:42,510:WARNING: * Debugger is active!
+2024-11-09 20:37:42,512:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:37:46,344:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:37:46,345:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:37:46,347:INFO: * Restarting with stat
+2024-11-09 20:37:47,024:WARNING: * Debugger is active!
+2024-11-09 20:37:47,026:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:37:57,380:INFO:127.0.0.1 - - [09/Nov/2024 20:37:57] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:37:57,488:INFO:127.0.0.1 - - [09/Nov/2024 20:37:57] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:37:57,490:INFO:127.0.0.1 - - [09/Nov/2024 20:37:57] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:37:57,546:INFO:127.0.0.1 - - [09/Nov/2024 20:37:57] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=ehHGw6nIyaYhVUZDiEyI HTTP/1.1" 200 -
+2024-11-09 20:39:47,853:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 20:39:48,000:INFO: * Restarting with stat
+2024-11-09 20:39:50,722:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:39:50,722:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:39:50,724:INFO: * Restarting with stat
+2024-11-09 20:39:51,398:WARNING: * Debugger is active!
+2024-11-09 20:39:51,401:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:39:59,878:INFO:127.0.0.1 - - [09/Nov/2024 20:39:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:39:59,983:INFO:127.0.0.1 - - [09/Nov/2024 20:39:59] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:39:59,984:INFO:127.0.0.1 - - [09/Nov/2024 20:39:59] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:40:00,039:INFO:127.0.0.1 - - [09/Nov/2024 20:40:00] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=cjTR5OFfQlm2wlzJ0fih HTTP/1.1" 200 -
+2024-11-09 20:49:35,527:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:49:35,527:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:49:35,529:INFO: * Restarting with stat
+2024-11-09 20:49:36,285:WARNING: * Debugger is active!
+2024-11-09 20:49:36,288:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:49:59,987:INFO:127.0.0.1 - - [09/Nov/2024 20:49:59] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-09 20:50:00,119:INFO:127.0.0.1 - - [09/Nov/2024 20:50:00] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:50:00,121:INFO:127.0.0.1 - - [09/Nov/2024 20:50:00] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:50:00,174:INFO:127.0.0.1 - - [09/Nov/2024 20:50:00] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=sC4m5UMIc6oO09ulgMCY HTTP/1.1" 200 -
+2024-11-09 20:52:05,517:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-09 20:52:05,664:INFO: * Restarting with stat
+2024-11-09 20:52:06,575:WARNING: * Debugger is active!
+2024-11-09 20:52:06,577:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:52:13,725:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 20:52:13,852:INFO: * Restarting with stat
+2024-11-09 20:52:14,588:WARNING: * Debugger is active!
+2024-11-09 20:52:14,590:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:52:15,636:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 20:52:15,777:INFO: * Restarting with stat
+2024-11-09 20:52:16,622:WARNING: * Debugger is active!
+2024-11-09 20:52:16,625:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:52:22,679:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:52:22,680:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:52:22,681:INFO: * Restarting with stat
+2024-11-09 20:52:23,421:WARNING: * Debugger is active!
+2024-11-09 20:52:23,423:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:52:29,311:INFO:127.0.0.1 - - [09/Nov/2024 20:52:29] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-09 20:52:29,348:INFO:127.0.0.1 - - [09/Nov/2024 20:52:29] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-09 20:52:29,404:INFO:127.0.0.1 - - [09/Nov/2024 20:52:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-09 20:52:45,629:INFO:127.0.0.1 - - [09/Nov/2024 20:52:45] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-09 20:52:54,318:INFO:127.0.0.1 - - [09/Nov/2024 20:52:54] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-09 20:56:00,640:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\create_user.py', reloading
+2024-11-09 20:56:00,752:INFO: * Restarting with stat
+2024-11-09 20:56:01,559:WARNING: * Debugger is active!
+2024-11-09 20:56:01,561:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:56:34,745:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:56:34,745:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:56:34,746:INFO: * Restarting with stat
+2024-11-09 20:56:35,413:WARNING: * Debugger is active!
+2024-11-09 20:56:35,415:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:56:41,488:INFO:127.0.0.1 - - [09/Nov/2024 20:56:41] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-09 20:56:50,181:INFO:127.0.0.1 - - [09/Nov/2024 20:56:50] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-09 20:56:50,187:INFO:127.0.0.1 - - [09/Nov/2024 20:56:50] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-09 20:57:02,142:INFO:127.0.0.1 - - [09/Nov/2024 20:57:02] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-09 20:57:02,151:INFO:127.0.0.1 - - [09/Nov/2024 20:57:02] "GET / HTTP/1.1" 200 -
+2024-11-09 20:57:31,833:INFO:127.0.0.1 - - [09/Nov/2024 20:57:31] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-09 20:57:31,903:INFO:127.0.0.1 - - [09/Nov/2024 20:57:31] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:57:31,905:INFO:127.0.0.1 - - [09/Nov/2024 20:57:31] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:57:31,922:INFO:127.0.0.1 - - [09/Nov/2024 20:57:31] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=JAWAUtopxx6o3Xl29UKy HTTP/1.1" 200 -
+2024-11-09 20:57:31,936:INFO:127.0.0.1 - - [09/Nov/2024 20:57:31] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-09 20:58:57,626:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\utils.py', reloading
+2024-11-09 20:58:57,745:INFO: * Restarting with stat
+2024-11-09 20:58:58,618:WARNING: * Debugger is active!
+2024-11-09 20:58:58,621:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:59:10,135:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:59:10,136:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:59:10,137:INFO: * Restarting with stat
+2024-11-09 20:59:10,871:WARNING: * Debugger is active!
+2024-11-09 20:59:10,873:INFO: * Debugger PIN: 109-174-516
+2024-11-09 20:59:20,548:INFO:127.0.0.1 - - [09/Nov/2024 20:59:20] "GET / HTTP/1.1" 200 -
+2024-11-09 20:59:33,062:INFO:127.0.0.1 - - [09/Nov/2024 20:59:33] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-09 20:59:33,116:INFO:127.0.0.1 - - [09/Nov/2024 20:59:33] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 20:59:33,126:INFO:127.0.0.1 - - [09/Nov/2024 20:59:33] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 20:59:33,165:INFO:127.0.0.1 - - [09/Nov/2024 20:59:33] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=cAAEHhz9mDnLNChu4I6B HTTP/1.1" 200 -
+2024-11-09 20:59:33,189:INFO:127.0.0.1 - - [09/Nov/2024 20:59:33] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-09 20:59:47,852:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 20:59:47,852:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 20:59:47,854:INFO: * Restarting with stat
+2024-11-09 20:59:48,685:WARNING: * Debugger is active!
+2024-11-09 20:59:48,688:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:00:05,765:INFO:127.0.0.1 - - [09/Nov/2024 21:00:05] "GET / HTTP/1.1" 200 -
+2024-11-09 21:00:18,626:INFO:127.0.0.1 - - [09/Nov/2024 21:00:18] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-09 21:00:18,686:INFO:127.0.0.1 - - [09/Nov/2024 21:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 21:00:18,693:INFO:127.0.0.1 - - [09/Nov/2024 21:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 21:00:18,732:INFO:127.0.0.1 - - [09/Nov/2024 21:00:18] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=4ioem5RxqncTedTfvV5z HTTP/1.1" 200 -
+2024-11-09 21:00:18,750:INFO:127.0.0.1 - - [09/Nov/2024 21:00:18] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-09 21:05:39,072:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 21:05:39,186:INFO: * Restarting with stat
+2024-11-09 21:05:40,129:WARNING: * Debugger is active!
+2024-11-09 21:05:40,133:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:05:44,487:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:05:44,487:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 21:05:44,489:INFO: * Restarting with stat
+2024-11-09 21:05:45,141:WARNING: * Debugger is active!
+2024-11-09 21:05:45,143:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:05:50,682:INFO:127.0.0.1 - - [09/Nov/2024 21:05:50] "GET / HTTP/1.1" 200 -
+2024-11-09 21:06:02,689:INFO:127.0.0.1 - - [09/Nov/2024 21:06:02] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-09 21:06:02,754:INFO:127.0.0.1 - - [09/Nov/2024 21:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-09 21:06:02,758:INFO:127.0.0.1 - - [09/Nov/2024 21:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-09 21:06:02,810:INFO:127.0.0.1 - - [09/Nov/2024 21:06:02] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=NUHB6FGw2NJnUrwqw98D HTTP/1.1" 200 -
+2024-11-09 21:06:02,831:INFO:127.0.0.1 - - [09/Nov/2024 21:06:02] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-09 21:06:55,249:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 21:06:55,380:INFO: * Restarting with stat
+2024-11-09 21:06:56,076:WARNING: * Debugger is active!
+2024-11-09 21:06:56,078:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:07:01,180:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-09 21:07:01,315:INFO: * Restarting with stat
+2024-11-09 21:07:02,094:WARNING: * Debugger is active!
+2024-11-09 21:07:02,097:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:07:06,417:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-09 21:07:06,418:INFO:[33mPress CTRL+C to quit[0m
+2024-11-09 21:07:06,419:INFO: * Restarting with stat
+2024-11-09 21:07:07,160:WARNING: * Debugger is active!
+2024-11-09 21:07:07,163:INFO: * Debugger PIN: 109-174-516
+2024-11-09 21:07:12,386:INFO:127.0.0.1 - - [09/Nov/2024 21:07:12] "POST / HTTP/1.1" 200 -
+2024-11-09 21:07:45,413:INFO:127.0.0.1 - - [09/Nov/2024 21:07:45] "GET / HTTP/1.1" 200 -
+2024-11-09 21:07:56,109:INFO:127.0.0.1 - - [09/Nov/2024 21:07:56] "POST / HTTP/1.1" 200 -
+2024-11-09 21:10:21,268:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\utils.py', reloading
+2024-11-09 21:10:21,389:INFO: * Restarting with stat
+2024-11-09 21:10:22,330:WARNING: * Debugger is active!
+2024-11-09 21:10:22,333:INFO: * Debugger PIN: 109-174-516
+2024-11-10 08:37:50,720:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 08:37:50,720:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 08:37:50,722:INFO: * Restarting with stat
+2024-11-10 08:37:51,381:WARNING: * Debugger is active!
+2024-11-10 08:37:51,385:INFO: * Debugger PIN: 109-174-516
+2024-11-10 08:38:01,953:INFO:127.0.0.1 - - [10/Nov/2024 08:38:01] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 08:38:01,989:INFO:127.0.0.1 - - [10/Nov/2024 08:38:01] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 08:38:02,073:INFO:127.0.0.1 - - [10/Nov/2024 08:38:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-10 08:39:02,579:INFO:127.0.0.1 - - [10/Nov/2024 08:39:02] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-10 08:39:09,899:INFO:127.0.0.1 - - [10/Nov/2024 08:39:09] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 08:39:09,910:INFO:127.0.0.1 - - [10/Nov/2024 08:39:09] "GET / HTTP/1.1" 200 -
+2024-11-10 08:39:22,722:INFO:127.0.0.1 - - [10/Nov/2024 08:39:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2024-11-10 08:39:22,843:INFO:127.0.0.1 - - [10/Nov/2024 08:39:22] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 08:39:22,857:INFO:127.0.0.1 - - [10/Nov/2024 08:39:22] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 08:39:22,893:INFO:127.0.0.1 - - [10/Nov/2024 08:39:22] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=L1szviYQ8zOAJMlBqW8o HTTP/1.1" 200 -
+2024-11-10 08:39:22,910:INFO:127.0.0.1 - - [10/Nov/2024 08:39:22] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-10 08:41:04,641:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 08:41:04,641:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 08:41:04,643:INFO: * Restarting with stat
+2024-11-10 08:41:05,459:WARNING: * Debugger is active!
+2024-11-10 08:41:05,462:INFO: * Debugger PIN: 109-174-516
+2024-11-10 08:41:19,543:INFO:127.0.0.1 - - [10/Nov/2024 08:41:19] "GET / HTTP/1.1" 200 -
+2024-11-10 08:41:29,346:INFO:127.0.0.1 - - [10/Nov/2024 08:41:29] "POST / HTTP/1.1" 200 -
+2024-11-10 09:02:45,832:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 09:02:45,833:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 09:02:45,836:INFO: * Restarting with stat
+2024-11-10 09:02:46,532:WARNING: * Debugger is active!
+2024-11-10 09:02:46,536:INFO: * Debugger PIN: 109-174-516
+2024-11-10 09:02:51,065:INFO:127.0.0.1 - - [10/Nov/2024 09:02:51] "GET / HTTP/1.1" 200 -
+2024-11-10 09:02:53,962:INFO:127.0.0.1 - - [10/Nov/2024 09:02:53] "GET / HTTP/1.1" 200 -
+2024-11-10 09:02:54,748:INFO:127.0.0.1 - - [10/Nov/2024 09:02:54] "GET / HTTP/1.1" 200 -
+2024-11-10 09:02:54,935:INFO:127.0.0.1 - - [10/Nov/2024 09:02:54] "GET / HTTP/1.1" 200 -
+2024-11-10 09:23:09,730:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 09:23:09,730:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 09:23:09,733:INFO: * Restarting with stat
+2024-11-10 09:23:10,455:WARNING: * Debugger is active!
+2024-11-10 09:23:10,457:INFO: * Debugger PIN: 109-174-516
+2024-11-10 09:23:17,330:INFO:127.0.0.1 - - [10/Nov/2024 09:23:17] "GET / HTTP/1.1" 200 -
+2024-11-10 09:23:30,207:INFO:127.0.0.1 - - [10/Nov/2024 09:23:30] "POST / HTTP/1.1" 200 -
+2024-11-10 09:23:37,879:INFO:127.0.0.1 - - [10/Nov/2024 09:23:37] "GET / HTTP/1.1" 200 -
+2024-11-10 09:23:38,598:INFO:127.0.0.1 - - [10/Nov/2024 09:23:38] "GET / HTTP/1.1" 200 -
+2024-11-10 09:23:39,212:INFO:127.0.0.1 - - [10/Nov/2024 09:23:39] "GET / HTTP/1.1" 200 -
+2024-11-10 09:27:03,379:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 09:27:03,380:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 09:27:03,381:INFO: * Restarting with stat
+2024-11-10 09:27:04,075:WARNING: * Debugger is active!
+2024-11-10 09:27:04,078:INFO: * Debugger PIN: 109-174-516
+2024-11-10 09:27:07,641:INFO:127.0.0.1 - - [10/Nov/2024 09:27:07] "GET / HTTP/1.1" 200 -
+2024-11-10 09:27:18,867:INFO:127.0.0.1 - - [10/Nov/2024 09:27:18] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:30:44,237:INFO:127.0.0.1 - - [10/Nov/2024 09:30:44] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:30:46,224:INFO:127.0.0.1 - - [10/Nov/2024 09:30:46] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:30:54,556:INFO:127.0.0.1 - - [10/Nov/2024 09:30:54] "[33mGET /index HTTP/1.1[0m" 404 -
+2024-11-10 09:31:07,164:INFO:127.0.0.1 - - [10/Nov/2024 09:31:07] "GET / HTTP/1.1" 200 -
+2024-11-10 09:31:12,627:INFO:127.0.0.1 - - [10/Nov/2024 09:31:12] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:31:15,982:INFO:127.0.0.1 - - [10/Nov/2024 09:31:15] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:31:39,062:INFO:127.0.0.1 - - [10/Nov/2024 09:31:39] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:34:58,882:INFO:127.0.0.1 - - [10/Nov/2024 09:34:58] "POST /login HTTP/1.1" 200 -
+2024-11-10 09:35:03,692:INFO:127.0.0.1 - - [10/Nov/2024 09:35:03] "POST /login HTTP/1.1" 200 -
+2024-11-10 09:35:15,536:INFO:127.0.0.1 - - [10/Nov/2024 09:35:15] "POST /login HTTP/1.1" 200 -
+2024-11-10 09:35:22,379:INFO:127.0.0.1 - - [10/Nov/2024 09:35:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 09:35:22,390:INFO:127.0.0.1 - - [10/Nov/2024 09:35:22] "GET / HTTP/1.1" 200 -
+2024-11-10 09:36:27,078:INFO:127.0.0.1 - - [10/Nov/2024 09:36:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 09:36:27,082:INFO:127.0.0.1 - - [10/Nov/2024 09:36:27] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:36:32,208:INFO:127.0.0.1 - - [10/Nov/2024 09:36:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 09:36:32,212:INFO:127.0.0.1 - - [10/Nov/2024 09:36:32] "GET /login?next=/logout HTTP/1.1" 200 -
+2024-11-10 09:36:35,912:INFO:127.0.0.1 - - [10/Nov/2024 09:36:35] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:36:36,669:INFO:127.0.0.1 - - [10/Nov/2024 09:36:36] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 09:36:36,674:INFO:127.0.0.1 - - [10/Nov/2024 09:36:36] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:36:45,048:INFO:127.0.0.1 - - [10/Nov/2024 09:36:45] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-10 09:36:59,991:INFO:127.0.0.1 - - [10/Nov/2024 09:36:59] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 09:37:00,002:INFO:127.0.0.1 - - [10/Nov/2024 09:37:00] "GET / HTTP/1.1" 200 -
+2024-11-10 09:37:12,235:INFO:127.0.0.1 - - [10/Nov/2024 09:37:12] "POST / HTTP/1.1" 200 -
+2024-11-10 09:43:34,090:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 09:43:34,231:INFO: * Restarting with stat
+2024-11-10 09:43:35,356:WARNING: * Debugger is active!
+2024-11-10 09:43:35,359:INFO: * Debugger PIN: 109-174-516
+2024-11-10 09:43:48,288:INFO:127.0.0.1 - - [10/Nov/2024 09:43:48] "POST / HTTP/1.1" 200 -
+2024-11-10 09:44:02,044:INFO:127.0.0.1 - - [10/Nov/2024 09:44:02] "[35m[1mGET /logout HTTP/1.1[0m" 500 -
+2024-11-10 09:44:02,071:INFO:127.0.0.1 - - [10/Nov/2024 09:44:02] "GET /logout?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 09:44:02,072:INFO:127.0.0.1 - - [10/Nov/2024 09:44:02] "GET /logout?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 09:44:02,134:INFO:127.0.0.1 - - [10/Nov/2024 09:44:02] "GET /logout?__debugger__=yes&cmd=resource&f=console.png&s=Ky5pt6TXb02FZ4bMH7nd HTTP/1.1" 200 -
+2024-11-10 09:44:02,148:INFO:127.0.0.1 - - [10/Nov/2024 09:44:02] "GET /logout?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 09:44:09,911:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 09:44:10,047:INFO: * Restarting with stat
+2024-11-10 09:44:11,011:WARNING: * Debugger is active!
+2024-11-10 09:44:11,014:INFO: * Debugger PIN: 109-174-516
+2024-11-10 09:44:11,484:INFO:127.0.0.1 - - [10/Nov/2024 09:44:11] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 09:44:11,499:INFO:127.0.0.1 - - [10/Nov/2024 09:44:11] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:52:58,862:INFO:127.0.0.1 - - [10/Nov/2024 09:52:58] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 09:52:58,875:INFO:127.0.0.1 - - [10/Nov/2024 09:52:58] "GET / HTTP/1.1" 200 -
+2024-11-10 09:53:02,166:INFO:127.0.0.1 - - [10/Nov/2024 09:53:02] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 09:53:02,177:INFO:127.0.0.1 - - [10/Nov/2024 09:53:02] "GET /login HTTP/1.1" 200 -
+2024-11-10 09:53:09,086:INFO:127.0.0.1 - - [10/Nov/2024 09:53:09] "POST /login HTTP/1.1" 200 -
+2024-11-10 09:53:17,854:INFO:127.0.0.1 - - [10/Nov/2024 09:53:17] "POST /login HTTP/1.1" 200 -
+2024-11-10 09:53:22,678:INFO:127.0.0.1 - - [10/Nov/2024 09:53:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 09:53:22,687:INFO:127.0.0.1 - - [10/Nov/2024 09:53:22] "GET / HTTP/1.1" 200 -
+2024-11-10 09:53:27,252:INFO:127.0.0.1 - - [10/Nov/2024 09:53:27] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 09:53:27,265:INFO:127.0.0.1 - - [10/Nov/2024 09:53:27] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:03:25,483:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:03:25,484:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:03:25,486:INFO: * Restarting with stat
+2024-11-10 10:03:26,223:WARNING: * Debugger is active!
+2024-11-10 10:03:26,227:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:03:37,269:INFO:127.0.0.1 - - [10/Nov/2024 10:03:37] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:03:37,295:INFO:127.0.0.1 - - [10/Nov/2024 10:03:37] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:03:46,956:INFO:127.0.0.1 - - [10/Nov/2024 10:03:46] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 10:03:46,971:INFO:127.0.0.1 - - [10/Nov/2024 10:03:46] "GET / HTTP/1.1" 200 -
+2024-11-10 10:03:49,380:INFO:127.0.0.1 - - [10/Nov/2024 10:03:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 10:03:49,388:INFO:127.0.0.1 - - [10/Nov/2024 10:03:49] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:10:18,365:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 10:10:18,475:INFO: * Restarting with stat
+2024-11-10 10:12:04,350:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:12:04,351:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:12:04,352:INFO: * Restarting with stat
+2024-11-10 10:12:05,621:WARNING: * Debugger is active!
+2024-11-10 10:12:05,623:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:12:15,586:INFO:127.0.0.1 - - [10/Nov/2024 10:12:15] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:12:15,649:INFO:127.0.0.1 - - [10/Nov/2024 10:12:15] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:12:30,415:INFO:127.0.0.1 - - [10/Nov/2024 10:12:30] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 10:12:30,427:INFO:127.0.0.1 - - [10/Nov/2024 10:12:30] "GET / HTTP/1.1" 200 -
+2024-11-10 10:12:32,313:INFO:127.0.0.1 - - [10/Nov/2024 10:12:32] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 10:12:32,322:INFO:127.0.0.1 - - [10/Nov/2024 10:12:32] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:12:50,920:INFO:127.0.0.1 - - [10/Nov/2024 10:12:50] "[35m[1mGET /login/google HTTP/1.1[0m" 500 -
+2024-11-10 10:12:51,015:INFO:127.0.0.1 - - [10/Nov/2024 10:12:51] "GET /login/google?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 10:12:51,023:INFO:127.0.0.1 - - [10/Nov/2024 10:12:51] "GET /login/google?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 10:12:51,060:INFO:127.0.0.1 - - [10/Nov/2024 10:12:51] "GET /login/google?__debugger__=yes&cmd=resource&f=console.png&s=ZkKlO2SAEfLRfoRbXmCN HTTP/1.1" 200 -
+2024-11-10 10:12:51,071:INFO:127.0.0.1 - - [10/Nov/2024 10:12:51] "GET /login/google?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 10:14:22,194:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 10:14:22,355:INFO: * Restarting with stat
+2024-11-10 10:18:24,135:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:18:24,136:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:18:24,138:INFO: * Restarting with stat
+2024-11-10 10:18:25,260:WARNING: * Debugger is active!
+2024-11-10 10:18:25,262:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:18:30,937:INFO:127.0.0.1 - - [10/Nov/2024 10:18:30] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:18:30,966:INFO:127.0.0.1 - - [10/Nov/2024 10:18:30] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:18:52,464:INFO:127.0.0.1 - - [10/Nov/2024 10:18:52] "[33mGET /login/googlw HTTP/1.1[0m" 404 -
+2024-11-10 10:18:57,656:INFO:127.0.0.1 - - [10/Nov/2024 10:18:57] "[35m[1mGET /login/google HTTP/1.1[0m" 500 -
+2024-11-10 10:18:57,723:INFO:127.0.0.1 - - [10/Nov/2024 10:18:57] "[36mGET /login/google?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 10:18:57,727:INFO:127.0.0.1 - - [10/Nov/2024 10:18:57] "[36mGET /login/google?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 10:18:57,772:INFO:127.0.0.1 - - [10/Nov/2024 10:18:57] "GET /login/google?__debugger__=yes&cmd=resource&f=console.png&s=DIeCDX26Bukf5bh8QsFq HTTP/1.1" 200 -
+2024-11-10 10:19:44,302:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-10 10:19:44,478:INFO: * Restarting with stat
+2024-11-10 10:19:46,149:WARNING: * Debugger is active!
+2024-11-10 10:19:46,151:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:19:59,540:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 10:19:59,677:INFO: * Restarting with stat
+2024-11-10 10:20:01,019:WARNING: * Debugger is active!
+2024-11-10 10:20:01,022:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:20:03,956:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:20:03,957:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:20:03,959:INFO: * Restarting with stat
+2024-11-10 10:20:05,111:WARNING: * Debugger is active!
+2024-11-10 10:20:05,114:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:20:09,225:INFO:127.0.0.1 - - [10/Nov/2024 10:20:09] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:20:09,259:INFO:127.0.0.1 - - [10/Nov/2024 10:20:09] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:20:17,258:INFO:127.0.0.1 - - [10/Nov/2024 10:20:17] "[35m[1mGET /login/google HTTP/1.1[0m" 500 -
+2024-11-10 10:20:17,330:INFO:127.0.0.1 - - [10/Nov/2024 10:20:17] "[36mGET /login/google?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 10:20:17,369:INFO:127.0.0.1 - - [10/Nov/2024 10:20:17] "[36mGET /login/google?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 10:20:17,429:INFO:127.0.0.1 - - [10/Nov/2024 10:20:17] "GET /login/google?__debugger__=yes&cmd=resource&f=console.png&s=n8MGAKK7hyrQetbUtAK5 HTTP/1.1" 200 -
+2024-11-10 10:21:14,924:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-10 10:21:15,061:INFO: * Restarting with stat
+2024-11-10 10:21:16,571:WARNING: * Debugger is active!
+2024-11-10 10:21:16,574:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:21:24,558:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:21:24,558:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:21:24,560:INFO: * Restarting with stat
+2024-11-10 10:21:25,759:WARNING: * Debugger is active!
+2024-11-10 10:21:25,761:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:21:31,073:INFO:127.0.0.1 - - [10/Nov/2024 10:21:31] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:21:31,101:INFO:127.0.0.1 - - [10/Nov/2024 10:21:31] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:21:43,001:INFO:127.0.0.1 - - [10/Nov/2024 10:21:43] "[33mGET /login/login HTTP/1.1[0m" 404 -
+2024-11-10 10:21:49,330:INFO:127.0.0.1 - - [10/Nov/2024 10:21:49] "[32mGET /login/google HTTP/1.1[0m" 302 -
+2024-11-10 10:21:49,848:INFO:127.0.0.1 - - [10/Nov/2024 10:21:49] "[32mGET /login/google HTTP/1.1[0m" 302 -
+2024-11-10 10:22:54,231:INFO:127.0.0.1 - - [10/Nov/2024 10:22:54] "[35m[1mGET /auth HTTP/1.1[0m" 500 -
+2024-11-10 10:22:54,310:INFO:127.0.0.1 - - [10/Nov/2024 10:22:54] "GET /auth?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 10:22:54,325:INFO:127.0.0.1 - - [10/Nov/2024 10:22:54] "GET /auth?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 10:22:54,388:INFO:127.0.0.1 - - [10/Nov/2024 10:22:54] "GET /auth?__debugger__=yes&cmd=resource&f=console.png&s=cbcHUHQ9tXCFUuDeBY8s HTTP/1.1" 200 -
+2024-11-10 10:22:54,410:INFO:127.0.0.1 - - [10/Nov/2024 10:22:54] "GET /auth?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 10:35:11,395:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 10:35:11,395:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 10:35:11,397:INFO: * Restarting with stat
+2024-11-10 10:35:12,497:WARNING: * Debugger is active!
+2024-11-10 10:35:12,500:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:35:21,076:INFO:127.0.0.1 - - [10/Nov/2024 10:35:21] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:35:21,085:INFO:127.0.0.1 - - [10/Nov/2024 10:35:21] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:35:28,378:INFO:127.0.0.1 - - [10/Nov/2024 10:35:28] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 10:35:28,388:INFO:127.0.0.1 - - [10/Nov/2024 10:35:28] "GET / HTTP/1.1" 200 -
+2024-11-10 10:35:30,967:INFO:127.0.0.1 - - [10/Nov/2024 10:35:30] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 10:35:30,975:INFO:127.0.0.1 - - [10/Nov/2024 10:35:30] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:36:04,831:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\__init__.py', reloading
+2024-11-10 10:36:04,980:INFO: * Restarting with stat
+2024-11-10 10:36:06,014:WARNING: * Debugger is active!
+2024-11-10 10:36:06,018:INFO: * Debugger PIN: 109-174-516
+2024-11-10 10:36:07,015:INFO:127.0.0.1 - - [10/Nov/2024 10:36:07] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:36:08,476:INFO:127.0.0.1 - - [10/Nov/2024 10:36:08] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:36:09,188:INFO:127.0.0.1 - - [10/Nov/2024 10:36:09] "GET /login HTTP/1.1" 200 -
+2024-11-10 10:36:12,407:INFO:127.0.0.1 - - [10/Nov/2024 10:36:12] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:36:12,414:INFO:127.0.0.1 - - [10/Nov/2024 10:36:12] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:36:15,620:INFO:127.0.0.1 - - [10/Nov/2024 10:36:15] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 10:36:15,629:INFO:127.0.0.1 - - [10/Nov/2024 10:36:15] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 10:36:17,990:INFO:127.0.0.1 - - [10/Nov/2024 10:36:17] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:20:01,734:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 17:20:01,735:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 17:20:01,739:INFO: * Restarting with stat
+2024-11-10 17:20:02,542:WARNING: * Debugger is active!
+2024-11-10 17:20:02,547:INFO: * Debugger PIN: 109-174-516
+2024-11-10 17:20:16,605:INFO:127.0.0.1 - - [10/Nov/2024 17:20:16] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 17:20:16,652:INFO:127.0.0.1 - - [10/Nov/2024 17:20:16] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:20:16,834:INFO:127.0.0.1 - - [10/Nov/2024 17:20:16] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-11-10 17:28:41,261:INFO:127.0.0.1 - - [10/Nov/2024 17:28:41] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 17:28:41,279:INFO:127.0.0.1 - - [10/Nov/2024 17:28:41] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:28:46,513:INFO:127.0.0.1 - - [10/Nov/2024 17:28:46] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:28:47,635:INFO:127.0.0.1 - - [10/Nov/2024 17:28:47] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:29:07,229:INFO:127.0.0.1 - - [10/Nov/2024 17:29:07] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:30:11,590:INFO:127.0.0.1 - - [10/Nov/2024 17:30:11] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:30:11,669:INFO:127.0.0.1 - - [10/Nov/2024 17:30:11] "GET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1" 200 -
+2024-11-10 17:31:02,872:INFO:127.0.0.1 - - [10/Nov/2024 17:31:02] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:31:02,892:INFO:127.0.0.1 - - [10/Nov/2024 17:31:02] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:31:38,925:INFO:127.0.0.1 - - [10/Nov/2024 17:31:38] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:31:38,944:INFO:127.0.0.1 - - [10/Nov/2024 17:31:38] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:31:41,039:INFO:127.0.0.1 - - [10/Nov/2024 17:31:41] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:31:41,059:INFO:127.0.0.1 - - [10/Nov/2024 17:31:41] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:32:08,198:INFO:127.0.0.1 - - [10/Nov/2024 17:32:08] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:32:08,215:INFO:127.0.0.1 - - [10/Nov/2024 17:32:08] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:32:54,047:INFO:127.0.0.1 - - [10/Nov/2024 17:32:54] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:32:54,071:INFO:127.0.0.1 - - [10/Nov/2024 17:32:54] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:34:03,491:INFO:127.0.0.1 - - [10/Nov/2024 17:34:03] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:34:03,509:INFO:127.0.0.1 - - [10/Nov/2024 17:34:03] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:34:37,035:INFO:127.0.0.1 - - [10/Nov/2024 17:34:37] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:34:37,051:INFO:127.0.0.1 - - [10/Nov/2024 17:34:37] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:35:00,462:INFO:127.0.0.1 - - [10/Nov/2024 17:35:00] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:35:00,476:INFO:127.0.0.1 - - [10/Nov/2024 17:35:00] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:36:35,732:INFO:127.0.0.1 - - [10/Nov/2024 17:36:35] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:36:35,752:INFO:127.0.0.1 - - [10/Nov/2024 17:36:35] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:36:54,939:INFO:127.0.0.1 - - [10/Nov/2024 17:36:54] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:36:54,957:INFO:127.0.0.1 - - [10/Nov/2024 17:36:54] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:37:08,444:INFO:127.0.0.1 - - [10/Nov/2024 17:37:08] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:37:08,480:INFO:127.0.0.1 - - [10/Nov/2024 17:37:08] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:38:03,842:INFO:127.0.0.1 - - [10/Nov/2024 17:38:03] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:38:03,864:INFO:127.0.0.1 - - [10/Nov/2024 17:38:03] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:38:19,584:INFO:127.0.0.1 - - [10/Nov/2024 17:38:19] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:38:19,603:INFO:127.0.0.1 - - [10/Nov/2024 17:38:19] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:38:40,177:INFO:127.0.0.1 - - [10/Nov/2024 17:38:40] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:38:40,193:INFO:127.0.0.1 - - [10/Nov/2024 17:38:40] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:38:51,118:INFO:127.0.0.1 - - [10/Nov/2024 17:38:51] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:38:51,138:INFO:127.0.0.1 - - [10/Nov/2024 17:38:51] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:39:08,634:INFO:127.0.0.1 - - [10/Nov/2024 17:39:08] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:39:08,653:INFO:127.0.0.1 - - [10/Nov/2024 17:39:08] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:39:17,420:INFO:127.0.0.1 - - [10/Nov/2024 17:39:17] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:39:17,435:INFO:127.0.0.1 - - [10/Nov/2024 17:39:17] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:39:30,688:INFO:127.0.0.1 - - [10/Nov/2024 17:39:30] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:39:30,704:INFO:127.0.0.1 - - [10/Nov/2024 17:39:30] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:39:55,877:INFO:127.0.0.1 - - [10/Nov/2024 17:39:55] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:39:55,895:INFO:127.0.0.1 - - [10/Nov/2024 17:39:55] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:42:14,968:INFO:127.0.0.1 - - [10/Nov/2024 17:42:14] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:42:14,992:INFO:127.0.0.1 - - [10/Nov/2024 17:42:14] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:43:20,985:INFO:127.0.0.1 - - [10/Nov/2024 17:43:20] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:43:21,005:INFO:127.0.0.1 - - [10/Nov/2024 17:43:21] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:43:43,036:INFO:127.0.0.1 - - [10/Nov/2024 17:43:43] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:43:43,053:INFO:127.0.0.1 - - [10/Nov/2024 17:43:43] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:43:50,827:INFO:127.0.0.1 - - [10/Nov/2024 17:43:50] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:43:50,849:INFO:127.0.0.1 - - [10/Nov/2024 17:43:50] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:44:17,564:INFO:127.0.0.1 - - [10/Nov/2024 17:44:17] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:44:17,587:INFO:127.0.0.1 - - [10/Nov/2024 17:44:17] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:44:34,092:INFO:127.0.0.1 - - [10/Nov/2024 17:44:34] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:44:34,110:INFO:127.0.0.1 - - [10/Nov/2024 17:44:34] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:45:49,992:INFO:127.0.0.1 - - [10/Nov/2024 17:45:49] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:45:50,016:INFO:127.0.0.1 - - [10/Nov/2024 17:45:50] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:46:33,180:INFO:127.0.0.1 - - [10/Nov/2024 17:46:33] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:46:33,196:INFO:127.0.0.1 - - [10/Nov/2024 17:46:33] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:46:43,396:INFO:127.0.0.1 - - [10/Nov/2024 17:46:43] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:46:43,415:INFO:127.0.0.1 - - [10/Nov/2024 17:46:43] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:48:32,372:INFO:127.0.0.1 - - [10/Nov/2024 17:48:32] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:48:32,394:INFO:127.0.0.1 - - [10/Nov/2024 17:48:32] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:48:51,014:INFO:127.0.0.1 - - [10/Nov/2024 17:48:51] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:48:51,030:INFO:127.0.0.1 - - [10/Nov/2024 17:48:51] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:49:00,365:INFO:127.0.0.1 - - [10/Nov/2024 17:49:00] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:49:00,381:INFO:127.0.0.1 - - [10/Nov/2024 17:49:00] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:53:23,481:INFO:127.0.0.1 - - [10/Nov/2024 17:53:23] "POST /login?next=/ HTTP/1.1" 200 -
+2024-11-10 17:53:23,494:INFO:127.0.0.1 - - [10/Nov/2024 17:53:23] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:53:30,350:INFO:127.0.0.1 - - [10/Nov/2024 17:53:30] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 17:53:30,363:INFO:127.0.0.1 - - [10/Nov/2024 17:53:30] "GET / HTTP/1.1" 200 -
+2024-11-10 17:53:41,258:INFO:127.0.0.1 - - [10/Nov/2024 17:53:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 17:53:41,265:INFO:127.0.0.1 - - [10/Nov/2024 17:53:41] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:53:41,287:INFO:127.0.0.1 - - [10/Nov/2024 17:53:41] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:55:12,255:INFO:127.0.0.1 - - [10/Nov/2024 17:55:12] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:55:12,274:INFO:127.0.0.1 - - [10/Nov/2024 17:55:12] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:55:23,380:INFO:127.0.0.1 - - [10/Nov/2024 17:55:23] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:55:23,407:INFO:127.0.0.1 - - [10/Nov/2024 17:55:23] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:55:33,221:INFO:127.0.0.1 - - [10/Nov/2024 17:55:33] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:55:33,242:INFO:127.0.0.1 - - [10/Nov/2024 17:55:33] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:56:50,092:INFO:127.0.0.1 - - [10/Nov/2024 17:56:50] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:56:50,113:INFO:127.0.0.1 - - [10/Nov/2024 17:56:50] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:57:11,977:INFO:127.0.0.1 - - [10/Nov/2024 17:57:11] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 17:57:12,019:INFO:127.0.0.1 - - [10/Nov/2024 17:57:12] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:06,588:INFO:127.0.0.1 - - [10/Nov/2024 17:58:06] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:08,641:INFO:127.0.0.1 - - [10/Nov/2024 17:58:08] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:17,955:INFO:127.0.0.1 - - [10/Nov/2024 17:58:17] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:18,635:INFO:127.0.0.1 - - [10/Nov/2024 17:58:18] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:19,330:INFO:127.0.0.1 - - [10/Nov/2024 17:58:19] "GET / HTTP/1.1" 200 -
+2024-11-10 17:58:23,814:INFO:127.0.0.1 - - [10/Nov/2024 17:58:23] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 17:58:23,822:INFO:127.0.0.1 - - [10/Nov/2024 17:58:23] "GET /login HTTP/1.1" 200 -
+2024-11-10 17:58:23,843:INFO:127.0.0.1 - - [10/Nov/2024 17:58:23] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 17:58:32,037:INFO:127.0.0.1 - - [10/Nov/2024 17:58:32] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 17:58:32,045:INFO:127.0.0.1 - - [10/Nov/2024 17:58:32] "GET / HTTP/1.1" 200 -
+2024-11-10 17:59:05,930:INFO:127.0.0.1 - - [10/Nov/2024 17:59:05] "GET / HTTP/1.1" 200 -
+2024-11-10 17:59:06,981:INFO:127.0.0.1 - - [10/Nov/2024 17:59:06] "GET / HTTP/1.1" 200 -
+2024-11-10 17:59:50,137:INFO:127.0.0.1 - - [10/Nov/2024 17:59:50] "GET / HTTP/1.1" 200 -
+2024-11-10 18:00:13,425:INFO:127.0.0.1 - - [10/Nov/2024 18:00:13] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:00:13,432:INFO:127.0.0.1 - - [10/Nov/2024 18:00:13] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:00:13,451:INFO:127.0.0.1 - - [10/Nov/2024 18:00:13] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:03:45,644:INFO:127.0.0.1 - - [10/Nov/2024 18:03:45] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:03:45,655:INFO:127.0.0.1 - - [10/Nov/2024 18:03:45] "GET / HTTP/1.1" 200 -
+2024-11-10 18:07:19,700:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:08:33,016:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 18:08:33,016:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 18:08:33,019:INFO: * Restarting with stat
+2024-11-10 18:08:33,731:WARNING: * Debugger is active!
+2024-11-10 18:08:33,734:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:08:40,521:INFO:127.0.0.1 - - [10/Nov/2024 18:08:40] "GET / HTTP/1.1" 200 -
+2024-11-10 18:08:48,645:INFO:127.0.0.1 - - [10/Nov/2024 18:08:48] "GET / HTTP/1.1" 200 -
+2024-11-10 18:08:49,860:INFO:127.0.0.1 - - [10/Nov/2024 18:08:49] "GET / HTTP/1.1" 200 -
+2024-11-10 18:08:50,272:INFO:127.0.0.1 - - [10/Nov/2024 18:08:50] "GET / HTTP/1.1" 200 -
+2024-11-10 18:08:54,870:INFO:127.0.0.1 - - [10/Nov/2024 18:08:54] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:08:54,885:INFO:127.0.0.1 - - [10/Nov/2024 18:08:54] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:08:54,936:INFO:127.0.0.1 - - [10/Nov/2024 18:08:54] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:09:02,062:INFO:127.0.0.1 - - [10/Nov/2024 18:09:02] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:09:02,068:INFO:127.0.0.1 - - [10/Nov/2024 18:09:02] "GET / HTTP/1.1" 200 -
+2024-11-10 18:09:11,672:INFO:127.0.0.1 - - [10/Nov/2024 18:09:11] "POST / HTTP/1.1" 200 -
+2024-11-10 18:09:11,702:INFO:127.0.0.1 - - [10/Nov/2024 18:09:11] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:14:35,411:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:14:35,533:INFO: * Restarting with stat
+2024-11-10 18:14:36,534:WARNING: * Debugger is active!
+2024-11-10 18:14:36,537:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:14:39,500:INFO:127.0.0.1 - - [10/Nov/2024 18:14:39] "POST / HTTP/1.1" 200 -
+2024-11-10 18:14:39,563:INFO:127.0.0.1 - - [10/Nov/2024 18:14:39] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:14:41,965:INFO:127.0.0.1 - - [10/Nov/2024 18:14:41] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:14:41,978:INFO:127.0.0.1 - - [10/Nov/2024 18:14:41] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:14:41,998:INFO:127.0.0.1 - - [10/Nov/2024 18:14:41] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:14:48,796:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:14:48,808:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "[35m[1mGET / HTTP/1.1[0m" 500 -
+2024-11-10 18:14:48,829:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 18:14:48,835:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 18:14:48,897:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=bBUKZk51NqgMVAoz4co9 HTTP/1.1" 200 -
+2024-11-10 18:14:48,913:INFO:127.0.0.1 - - [10/Nov/2024 18:14:48] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 18:15:54,809:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:15:54,958:INFO: * Restarting with stat
+2024-11-10 18:15:55,950:WARNING: * Debugger is active!
+2024-11-10 18:15:55,952:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:15:56,216:INFO:127.0.0.1 - - [10/Nov/2024 18:15:56] "GET / HTTP/1.1" 200 -
+2024-11-10 18:16:07,341:INFO:127.0.0.1 - - [10/Nov/2024 18:16:07] "POST / HTTP/1.1" 200 -
+2024-11-10 18:16:07,419:INFO:127.0.0.1 - - [10/Nov/2024 18:16:07] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:16:18,053:INFO:127.0.0.1 - - [10/Nov/2024 18:16:18] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:16:18,069:INFO:127.0.0.1 - - [10/Nov/2024 18:16:18] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:16:18,090:INFO:127.0.0.1 - - [10/Nov/2024 18:16:18] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:16:31,217:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 18:16:31,217:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 18:16:31,219:INFO: * Restarting with stat
+2024-11-10 18:16:32,074:WARNING: * Debugger is active!
+2024-11-10 18:16:32,077:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:16:57,622:INFO:127.0.0.1 - - [10/Nov/2024 18:16:57] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 18:16:57,651:INFO:127.0.0.1 - - [10/Nov/2024 18:16:57] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 18:16:57,725:INFO:127.0.0.1 - - [10/Nov/2024 18:16:57] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:17:06,479:INFO:127.0.0.1 - - [10/Nov/2024 18:17:06] "[32mPOST /login?next=/ HTTP/1.1[0m" 302 -
+2024-11-10 18:17:06,489:INFO:127.0.0.1 - - [10/Nov/2024 18:17:06] "GET / HTTP/1.1" 200 -
+2024-11-10 18:17:14,412:INFO:127.0.0.1 - - [10/Nov/2024 18:17:14] "POST / HTTP/1.1" 200 -
+2024-11-10 18:17:14,433:INFO:127.0.0.1 - - [10/Nov/2024 18:17:14] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:19:10,669:INFO:127.0.0.1 - - [10/Nov/2024 18:19:10] "POST / HTTP/1.1" 200 -
+2024-11-10 18:19:10,686:INFO:127.0.0.1 - - [10/Nov/2024 18:19:10] "GET /static/uploads/output_image.png HTTP/1.1" 200 -
+2024-11-10 18:20:20,972:INFO:127.0.0.1 - - [10/Nov/2024 18:20:20] "POST / HTTP/1.1" 200 -
+2024-11-10 18:20:20,986:INFO:127.0.0.1 - - [10/Nov/2024 18:20:20] "GET /static/uploads/output_image.png HTTP/1.1" 200 -
+2024-11-10 18:20:20,999:INFO:127.0.0.1 - - [10/Nov/2024 18:20:20] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:22:02,180:INFO:127.0.0.1 - - [10/Nov/2024 18:22:02] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:22:02,188:INFO:127.0.0.1 - - [10/Nov/2024 18:22:02] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:22:02,209:INFO:127.0.0.1 - - [10/Nov/2024 18:22:02] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:24:30,316:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 18:24:30,316:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 18:24:30,317:INFO: * Restarting with stat
+2024-11-10 18:24:31,066:WARNING: * Debugger is active!
+2024-11-10 18:24:31,069:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:24:36,301:INFO:127.0.0.1 - - [10/Nov/2024 18:24:36] "[32mGET / HTTP/1.1[0m" 302 -
+2024-11-10 18:24:36,332:INFO:127.0.0.1 - - [10/Nov/2024 18:24:36] "GET /login?next=/ HTTP/1.1" 200 -
+2024-11-10 18:24:36,402:INFO:127.0.0.1 - - [10/Nov/2024 18:24:36] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:24:42,961:INFO:127.0.0.1 - - [10/Nov/2024 18:24:42] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:24:42,977:INFO:127.0.0.1 - - [10/Nov/2024 18:24:42] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:24:50,876:INFO:127.0.0.1 - - [10/Nov/2024 18:24:50] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:24:50,901:INFO:127.0.0.1 - - [10/Nov/2024 18:24:50] "GET / HTTP/1.1" 200 -
+2024-11-10 18:25:00,933:INFO:127.0.0.1 - - [10/Nov/2024 18:25:00] "POST / HTTP/1.1" 200 -
+2024-11-10 18:25:00,954:INFO:127.0.0.1 - - [10/Nov/2024 18:25:00] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:25:00,970:INFO:127.0.0.1 - - [10/Nov/2024 18:25:00] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:25:11,855:INFO:127.0.0.1 - - [10/Nov/2024 18:25:11] "POST / HTTP/1.1" 200 -
+2024-11-10 18:25:11,876:INFO:127.0.0.1 - - [10/Nov/2024 18:25:11] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:25:11,901:INFO:127.0.0.1 - - [10/Nov/2024 18:25:11] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:26:15,750:INFO:127.0.0.1 - - [10/Nov/2024 18:26:15] "POST / HTTP/1.1" 200 -
+2024-11-10 18:26:15,766:INFO:127.0.0.1 - - [10/Nov/2024 18:26:15] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:26:15,788:INFO:127.0.0.1 - - [10/Nov/2024 18:26:15] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:26:17,025:INFO:127.0.0.1 - - [10/Nov/2024 18:26:17] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:26:17,035:INFO:127.0.0.1 - - [10/Nov/2024 18:26:17] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:26:17,054:INFO:127.0.0.1 - - [10/Nov/2024 18:26:17] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:26:26,001:INFO:127.0.0.1 - - [10/Nov/2024 18:26:26] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:26:26,008:INFO:127.0.0.1 - - [10/Nov/2024 18:26:26] "GET / HTTP/1.1" 200 -
+2024-11-10 18:26:33,243:INFO:127.0.0.1 - - [10/Nov/2024 18:26:33] "POST / HTTP/1.1" 200 -
+2024-11-10 18:26:33,260:INFO:127.0.0.1 - - [10/Nov/2024 18:26:33] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:26:33,277:INFO:127.0.0.1 - - [10/Nov/2024 18:26:33] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:27:13,742:INFO:127.0.0.1 - - [10/Nov/2024 18:27:13] "POST / HTTP/1.1" 200 -
+2024-11-10 18:27:13,762:INFO:127.0.0.1 - - [10/Nov/2024 18:27:13] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:27:13,779:INFO:127.0.0.1 - - [10/Nov/2024 18:27:13] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:27:48,224:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:27:48,364:INFO: * Restarting with stat
+2024-11-10 18:27:49,194:WARNING: * Debugger is active!
+2024-11-10 18:27:49,197:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:27:52,200:INFO:127.0.0.1 - - [10/Nov/2024 18:27:52] "POST / HTTP/1.1" 200 -
+2024-11-10 18:27:52,263:INFO:127.0.0.1 - - [10/Nov/2024 18:27:52] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:27:52,282:INFO:127.0.0.1 - - [10/Nov/2024 18:27:52] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:29:25,761:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:29:25,872:INFO: * Restarting with stat
+2024-11-10 18:29:26,612:WARNING: * Debugger is active!
+2024-11-10 18:29:26,614:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:29:39,768:INFO:127.0.0.1 - - [10/Nov/2024 18:29:39] "POST / HTTP/1.1" 200 -
+2024-11-10 18:29:39,838:INFO:127.0.0.1 - - [10/Nov/2024 18:29:39] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:29:39,852:INFO:127.0.0.1 - - [10/Nov/2024 18:29:39] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:29:43,864:INFO:127.0.0.1 - - [10/Nov/2024 18:29:43] "[35m[1mGET /download/uploads\\processed_image.png HTTP/1.1[0m" 500 -
+2024-11-10 18:29:43,884:INFO:127.0.0.1 - - [10/Nov/2024 18:29:43] "GET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2024-11-10 18:29:43,895:INFO:127.0.0.1 - - [10/Nov/2024 18:29:43] "GET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2024-11-10 18:29:43,943:INFO:127.0.0.1 - - [10/Nov/2024 18:29:43] "GET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=console.png&s=lo4bUNl8kSScMrgzqYyE HTTP/1.1" 200 -
+2024-11-10 18:29:43,967:INFO:127.0.0.1 - - [10/Nov/2024 18:29:43] "GET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2024-11-10 18:31:03,188:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\utils.py', reloading
+2024-11-10 18:31:03,315:INFO: * Restarting with stat
+2024-11-10 18:31:04,175:WARNING: * Debugger is active!
+2024-11-10 18:31:04,177:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:31:15,342:INFO:127.0.0.1 - - [10/Nov/2024 18:31:15] "[35m[1mGET /download/uploads\\processed_image.png HTTP/1.1[0m" 500 -
+2024-11-10 18:31:15,416:INFO:127.0.0.1 - - [10/Nov/2024 18:31:15] "[36mGET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2024-11-10 18:31:15,417:INFO:127.0.0.1 - - [10/Nov/2024 18:31:15] "[36mGET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2024-11-10 18:31:15,437:INFO:127.0.0.1 - - [10/Nov/2024 18:31:15] "GET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=console.png&s=75oNUg0YwEbiWmgL2ksI HTTP/1.1" 200 -
+2024-11-10 18:31:15,452:INFO:127.0.0.1 - - [10/Nov/2024 18:31:15] "[36mGET /download/uploads\\processed_image.png?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2024-11-10 18:31:59,043:INFO: * Detected change in 'C:\\Users\\idesi\\OneDrive\\Desktop\\photoTxtApp\\app\\main.py', reloading
+2024-11-10 18:31:59,166:INFO: * Restarting with stat
+2024-11-10 18:32:00,072:WARNING: * Debugger is active!
+2024-11-10 18:32:00,075:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:32:35,044:INFO:127.0.0.1 - - [10/Nov/2024 18:32:35] "[33mGET /download/uploads\\processed_image.png HTTP/1.1[0m" 404 -
+2024-11-10 18:32:40,933:INFO:127.0.0.1 - - [10/Nov/2024 18:32:40] "[33mGET /download/uploads\\processed_image.png HTTP/1.1[0m" 404 -
+2024-11-10 18:32:42,379:INFO:127.0.0.1 - - [10/Nov/2024 18:32:42] "[33mGET /download/uploads\\processed_image.png HTTP/1.1[0m" 404 -
+2024-11-10 18:32:47,499:INFO:127.0.0.1 - - [10/Nov/2024 18:32:47] "GET / HTTP/1.1" 200 -
+2024-11-10 18:32:57,810:INFO:127.0.0.1 - - [10/Nov/2024 18:32:57] "POST / HTTP/1.1" 200 -
+2024-11-10 18:32:57,878:INFO:127.0.0.1 - - [10/Nov/2024 18:32:57] "GET /static/uploads/Linkedinpf01_4.png HTTP/1.1" 200 -
+2024-11-10 18:32:57,889:INFO:127.0.0.1 - - [10/Nov/2024 18:32:57] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:34:57,444:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-11-10 18:34:57,445:INFO:[33mPress CTRL+C to quit[0m
+2024-11-10 18:34:57,447:INFO: * Restarting with stat
+2024-11-10 18:34:58,176:WARNING: * Debugger is active!
+2024-11-10 18:34:58,180:INFO: * Debugger PIN: 109-174-516
+2024-11-10 18:34:58,226:INFO:127.0.0.1 - - [10/Nov/2024 18:34:58] "GET / HTTP/1.1" 200 -
+2024-11-10 18:35:00,810:INFO:127.0.0.1 - - [10/Nov/2024 18:35:00] "[32mGET /logout HTTP/1.1[0m" 302 -
+2024-11-10 18:35:00,824:INFO:127.0.0.1 - - [10/Nov/2024 18:35:00] "GET /login HTTP/1.1" 200 -
+2024-11-10 18:35:00,901:INFO:127.0.0.1 - - [10/Nov/2024 18:35:00] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:35:11,635:INFO:127.0.0.1 - - [10/Nov/2024 18:35:11] "POST /login HTTP/1.1" 200 -
+2024-11-10 18:35:11,654:INFO:127.0.0.1 - - [10/Nov/2024 18:35:11] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:35:17,333:INFO:127.0.0.1 - - [10/Nov/2024 18:35:17] "POST /login HTTP/1.1" 200 -
+2024-11-10 18:35:17,349:INFO:127.0.0.1 - - [10/Nov/2024 18:35:17] "[36mGET /static/barnaby-K78ECC0F1YI-unsplash.jpg HTTP/1.1[0m" 304 -
+2024-11-10 18:35:22,192:INFO:127.0.0.1 - - [10/Nov/2024 18:35:22] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-11-10 18:35:22,199:INFO:127.0.0.1 - - [10/Nov/2024 18:35:22] "GET / HTTP/1.1" 200 -
+2024-11-10 18:35:29,035:INFO:127.0.0.1 - - [10/Nov/2024 18:35:29] "POST / HTTP/1.1" 200 -
+2024-11-10 18:35:29,048:INFO:127.0.0.1 - - [10/Nov/2024 18:35:29] "GET /static/uploads/Linkedinpf01_3.png HTTP/1.1" 200 -
+2024-11-10 18:35:29,068:INFO:127.0.0.1 - - [10/Nov/2024 18:35:29] "GET /static/uploads/processed_image.png HTTP/1.1" 200 -
+2024-11-10 18:35:31,810:INFO:127.0.0.1 - - [10/Nov/2024 18:35:31] "GET /download/processed_image.png HTTP/1.1" 200 -

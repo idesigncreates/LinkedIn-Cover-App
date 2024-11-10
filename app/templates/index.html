@@ -1,0 +1,56 @@
+<head>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        .custom-form {
+            max-width: 500px;
+            margin: 0 auto;
+            padding: 2.5rem;
+            min-height: 500px;
+        }
+        .img-thumbnail {
+            max-width: 400px;
+            max-height: 300px;
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+
+<div class="container mt-4">
+    {% if current_user.is_authenticated %}
+        <div class="d-flex justify-content-end mb-3">
+            <a href="{{ url_for('main.logout') }}" class="btn btn-danger">Logout</a>
+        </div>
+    {% endif %}
+
+    {% if not uploaded_image_url %}
+        <form method="POST" enctype="multipart/form-data" class="custom-form border rounded shadow-sm">
+            {{ form.hidden_tag() }}
+            <div class="mb-3">
+                <label class="form-label">{{ form.image.label }}</label>
+                {{ form.image(class="form-control") }}
+            </div>
+            <div class="mb-3">
+                <label class="form-label">{{ form.text.label }}</label>
+                {{ form.text(class="form-control") }}
+            </div>
+            <div class="d-grid">
+                {{ form.submit(class="btn btn-primary") }}
+            </div>
+        </form>
+    {% endif %}
+
+    {% if uploaded_image_url %}
+        <div class="mt-4">
+            <h5>Uploaded Image</h5>
+            <img src="{{ uploaded_image_url }}" class="img-thumbnail d-block mx-auto mb-3" alt="Uploaded Image">
+        </div>
+    {% endif %}
+
+    {% if processed_image_url %}
+        <div class="mt-4">
+            <h5>Processed Image</h5>
+            <img src="{{ processed_image_url }}" class="img-thumbnail d-block mx-auto mb-3" alt="Processed Image">
+            <a href="{{ url_for('main.download_file', filename=processed_image_path.split('/')[-1]) }}" class="btn btn-success mt-2">Download Processed Image</a>
+        </div>
+    {% endif %}
+</div>
